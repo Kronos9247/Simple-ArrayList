@@ -3,7 +3,7 @@ package com.kronos9247.list;
 /*
  *  A simple example implementation of a ArrayList
  *  
- *  Copyright (C) 2017  Rafael Orman
+ *  Copyright (C) 2018  Rafael Orman
  *  
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
